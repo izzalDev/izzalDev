@@ -67,8 +67,17 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 <img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="PyTorch" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="DVC" height="26px" src="https://static-00.iconduck.com/assets.00/file-type-dvc-icon-512x293-js3het8o.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="" height="26px" src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" />
+<img align="left" alt="" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFH-RYEQ-2DlYBM7VaxNCMBDXgfNm3fzk6g9bWN7QcBglQv8fXYxc-wpvO_ui3_C46zA&usqp=CAU" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" />
 
 <br />
 <br />
