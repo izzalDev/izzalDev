@@ -81,7 +81,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 - [Pembuatan REST Service](https://izzal.medium.com/pembuatan-rest-service-894be45fa3f7?source=rss-e16f4f103d89------2)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [more blog posts...][blog]
+▶ [more blog posts...](https://izzal.medium.com)
 
 ---
 
