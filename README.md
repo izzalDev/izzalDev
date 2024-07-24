@@ -19,8 +19,9 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 - **Frontend:** Vue.js, HTML, CSS, Tailwind
 - **Backend:** Node.js, Spring Boot, Laravel
 - **Mobile Development:** Flutter
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Onnx
 - **DevOps:** Docker, CI/CD, GitHub Actions
+- **MLOps:** MLflow, DVC, Dagshub
 - **Others:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
