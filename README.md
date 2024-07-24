@@ -96,7 +96,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/n3wt0n/vulpy/pull/25) in [n3wt0n/vulpy](https://github.com/n3wt0n/vulpy)
+1. 🎉 Merged PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
 <!--END_SECTION:activity-->
 
 </details>
