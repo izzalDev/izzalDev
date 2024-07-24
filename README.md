@@ -78,6 +78,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mendeploy Model Scikit-Learn ke Aplikasi Web Client-Side Menggunakan ONNX: Panduan Lengkap untuk…](https://izzal.medium.com/mendeploy-model-scikit-learn-ke-aplikasi-web-client-side-menggunakan-onnx-panduan-lengkap-untuk-07ae120b73ae?source=rss-e16f4f103d89------2)
 - [Pembuatan REST Service](https://izzal.medium.com/pembuatan-rest-service-894be45fa3f7?source=rss-e16f4f103d89------2)
 <!-- BLOG-POST-LIST:END -->
 
