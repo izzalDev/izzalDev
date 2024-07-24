@@ -88,7 +88,8 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: GitHub Stats
 
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izzalDev&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" height=225 src="https://github-readme-stats.vercel.app/api?username=izzalDev&show_icons=true&count_private=true" />
+<img height=225 src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalDev&layout=donut" />
 
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
@@ -98,8 +99,6 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 <!--END_SECTION:activity-->
 
 </details>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzalDev&layout=compact)
 
 [website]: https://www.davidebenvegnu.com
 [cdwebsite]: https://coderdave.io
