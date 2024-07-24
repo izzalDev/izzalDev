@@ -2,7 +2,7 @@
 
 ## I'm a full-stack developer and machine learning enthusiast!
 
-Hello! I’m CoderDave, a full-stack developer and machine learning enthusiast currently pursuing my studies at university. My journey in technology spans both frontend and backend development, with experience in creating applications using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [Flutter](https://flutter.dev/). 🚀
+Hello! I’m IzzalDev, a full-stack developer and machine learning enthusiast currently pursuing my studies at university. My journey in technology spans both frontend and backend development, with experience in creating applications using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [Flutter](https://flutter.dev/). 🚀
 
 In the world of machine learning, I focus on building models and analyzing data with tools like [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/). 🔍 I love turning complex data into actionable insights and innovative solutions. 💡
 
