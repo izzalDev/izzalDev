@@ -1,1 +1,120 @@
-# izzalDev
+### Hi there, I'm [Rizal Fadlullah][website] 👋 💻
+
+## I'm a full-stack developer and machine learning enthusiast!
+
+Hello! I’m CoderDave, a full-stack developer and machine learning enthusiast currently pursuing my studies at university. My journey in technology spans both frontend and backend development, with experience in creating applications using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [Flutter](https://flutter.dev/). 🚀
+
+In the world of machine learning, I focus on building models and analyzing data with tools like [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/). 🔍 I love turning complex data into actionable insights and innovative solutions. 💡
+
+In addition to my technical work, I contribute to open-source projects and write articles on [Medium](https://medium.com/@your-profile) to share my experiences and knowledge. ✍️ I’m always excited to connect with fellow tech enthusiasts and explore new projects and opportunities. 🌟
+
+Feel free to reach out if you want to collaborate or chat about technology! 🤝
+
+
+---
+
+**🔧 Technologies & Tools**
+
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, Dart
+- **Frontend:** Vue.js, HTML, CSS, Tailwind
+- **Backend:** Node.js, Spring Boot, Laravel
+- **Mobile Development:** Flutter
+- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn
+- **DevOps:** Docker, CI/CD, GitHub Actions
+- **Others:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+
+<!-- ### Connect with me:
+
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+[<img align="left" alt="CoderDave.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cdwebsite]
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube]
+[<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/discord.svg" />][discord]
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/instagram.png" />][instagram]
+[<img align="left" alt="YouTube Personal" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-personal]
+[<img align="left" alt="YouTube Beyond Cameras" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/youtube.svg" />][youtube-cameras]
+[<img align="left" alt="Podcast" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/podcast.svg" />][podcast]
+<br /> -->
+
+### Support me:
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://www.nihbuatjajan.com/_qviyxykh" target="_blank">
+    <img src="https://d4xyvrfd64gfm.cloudfront.net/buttons/default-cta.png" alt="Nih buat jajan" height="40"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <a href="https://trakteer.id/izzalDev/tip" target="_blank">
+    <img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a><span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <a href='https://ko-fi.com/B0B2ZCON1' target='_blank'>
+    <img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+
+### Languages and Tools:
+
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Vue.js" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Spring Boot" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="PyTorch" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<br />
+<br />
+
+---
+
+### 📑 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Security Best Practices For GitHub Actions Secrets](https://dev.to/n3wt0n/security-best-practices-for-github-actions-secrets-jka)
+- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
+- [Azure Boards? Here&#39;s WHY!](https://dev.to/n3wt0n/azure-boards-heres-why-ik0)
+- [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
+- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [more blog posts...][blog]
+
+---
+
+:zap: GitHub Stats
+
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=izzalDev&show_icons=true&hide_border=true&count_private=true" />
+
+<details>
+  <summary>:zap: Recent GitHub Activities</summary>
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#25](https://github.com/n3wt0n/vulpy/pull/25) in [n3wt0n/vulpy](https://github.com/n3wt0n/vulpy)
+<!--END_SECTION:activity-->
+
+</details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzalDev&layout=compact)
+
+[website]: https://www.davidebenvegnu.com
+[cdwebsite]: https://coderdave.io
+[blog]: https://dev.to/n3wt0n
+[twitter]: https://twitter.com/davidebenvegnu
+[youtube]: https://www.youtube.com/CoderDave
+[youtube-personal]: https://www.youtube.com/DavideBenvegnu
+[youtube-cameras]: https://www.youtube.com/channel/UC-D1BZtB-ifRhxLmRq1y-Ug
+[linkedin]: https://linkedin.com/in/davidebenvegnu
+[instagram]: https://www.instagram.com/davide.benvegnu
+[patreon]: https://patreon.com/CoderDave
+[paypal]: https://paypal.me/dabenveg
+[buymeacoffee]: https://buymeacoffee.com/CoderDave
+[githubsponsor]: https://github.com/sponsors/n3wt0n?o=esb
+[podcast]: https://geni.us/cdpodcast
+[discord]: https://discord.gg/sJFmYC9TXb
