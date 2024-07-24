@@ -77,11 +77,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Best Practices For GitHub Actions Secrets](https://dev.to/n3wt0n/security-best-practices-for-github-actions-secrets-jka)
-- [GitHub: Composite Actions vs Reusable Workflows [Updated 2023]](https://dev.to/n3wt0n/github-composite-actions-vs-reusable-workflows-updated-2023-bl8)
-- [Azure Boards? Here&#39;s WHY!](https://dev.to/n3wt0n/azure-boards-heres-why-ik0)
-- [GitHub Larger Runners EXPLAINED! - No more limits](https://dev.to/n3wt0n/github-larger-runners-explained-no-more-limits-419p)
-- [5 Top Reasons to Use GitHub Actions for Your Next Project](https://dev.to/n3wt0n/5-top-reasons-to-use-github-actions-for-your-next-project-cga)
+- [Pembuatan REST Service](https://izzal.medium.com/pembuatan-rest-service-894be45fa3f7?source=rss-e16f4f103d89------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...][blog]
