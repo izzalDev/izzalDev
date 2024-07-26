@@ -6,7 +6,7 @@ Hello! I’m IzzalDev, a full-stack developer and machine learning enthusiast cu
 
 In the world of machine learning, I focus on building models and analyzing data with tools like [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/). 🔍 I love turning complex data into actionable insights and innovative solutions. 💡
 
-In addition to my technical work, I contribute to open-source projects and write articles on [Medium](https://medium.com/@your-profile) to share my experiences and knowledge. ✍️ I’m always excited to connect with fellow tech enthusiasts and explore new projects and opportunities. 🌟
+In addition to my technical work, I contribute to open-source projects and write articles on [Medium](https://izzal.medium.com) to share my experiences and knowledge. ✍️ I’m always excited to connect with fellow tech enthusiasts and explore new projects and opportunities. 🌟
 
 Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
@@ -15,7 +15,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 **🔧 Technologies & Tools**
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++, Dart
+- **Languages:** Python, JavaScript, TypeScript, Java, C++, Dart, PHP
 - **Frontend:** Vue.js, HTML, CSS, Tailwind
 - **Backend:** Node.js, Spring Boot, Laravel
 - **Mobile Development:** Flutter
