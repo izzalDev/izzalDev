@@ -98,7 +98,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 :zap: GitHub Stats
 
 <img align="left" height=175 src="https://github-readme-stats.vercel.app/api?username=izzalDev&show_icons=true&count_private=true" />
-<img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalDev&layout=compact&hide=jupyter%20notebook" />
+<img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzalDev&layout=compact&hide=jupyter%20notebook,blade,css" />
 
 <!--
 :zap: LeetCode Stats
