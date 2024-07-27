@@ -106,14 +106,15 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 ![](https://leetcard.jacoblin.cool/izzalDev?theme=light)
 -->
 
-<details>
-  <summary>:zap: Recent GitHub Activities</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-<!--END_SECTION:activity-->
+### :zap: Recent Activity
 
-</details>
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4189](https://github.com/hoppscotch/hoppscotch/pull/4189) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#19](https://github.com/hoppscotch/ui/issues/19#issuecomment-2250951753) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
+3. 💪 Opened PR [#4211](https://github.com/hoppscotch/hoppscotch/pull/4211) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#4145](https://github.com/hoppscotch/hoppscotch/issues/4145#issuecomment-2244821558) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#4203](https://github.com/hoppscotch/hoppscotch/pull/4203) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
 [cdwebsite]: https://coderdave.io
