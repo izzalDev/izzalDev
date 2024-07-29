@@ -110,11 +110,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-2. 💪 Opened PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-3. 🎉 Merged PR [#17](https://github.com/izzalDev/finance-management/pull/17) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-4. 💪 Opened PR [#17](https://github.com/izzalDev/finance-management/pull/17) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-5. 🎉 Merged PR [#16](https://github.com/izzalDev/finance-management/pull/16) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+1. 💪 Opened PR [#191](https://github.com/mac-cleanup/mac-cleanup-py/pull/191) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+2. 🎉 Merged PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+3. 💪 Opened PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+4. 🎉 Merged PR [#17](https://github.com/izzalDev/finance-management/pull/17) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+5. 💪 Opened PR [#17](https://github.com/izzalDev/finance-management/pull/17) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
