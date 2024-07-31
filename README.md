@@ -97,22 +97,13 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 ---
 
 :zap: GitHub Stats
+[<img height=185 alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=izzalDev&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-light-mode-only)
+[<img height=185 alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=izzalDev&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact&hide=jupyter%20notebook,css,html,cmake,blade,vue&langs_count=8&exclude_repo=" />](https://github.com/efa2d19#gh-light-mode-only)
 
-[<img alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=izzalDev&theme=default&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-light-mode-only)
-[<img alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=izzalDev&theme=default&show_icons=true&count_private=true&hide_border=true&title_color=454d57&layout=compact&hide=jupyter%20notebook,css,html,cmake,blade,vue&langs_count=10&exclude_repo=" />](https://github.com/efa2d19#gh-light-mode-only)
+[<img height=185 alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=izzalDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-dark-mode-only)
+[<img height=185 alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=izzalDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact&hide=jupyter%20notebook,css,html,cmake,blade,vue&langs_count=8&exclude_repo=" />](https://github.com/efa2d19#gh-dark-mode-only)
 
-[<img alt="Github Stats" src="https://gh-readme-stats-efa2d19-main.vercel.app/api?username=izzalDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" />](https://github.com/efa2d19#gh-dark-mode-only)
-[<img alt="Top Languages" src="https://gh-readme-stats-efa2d19-main.vercel.app/api/top-langs/?username=izzalDev&theme=github_dark&show_icons=true&count_private=true&hide_border=true&title_color=c1cbd3&layout=compact&hide=jupyter%20notebook,css,html,cmake,blade,vue&langs_count=10&exclude_repo=" />](https://github.com/efa2d19#gh-dark-mode-only)
-
-<div></div>
-<!--
-:zap: LeetCode Stats
-
-![](https://leetcard.jacoblin.cool/izzalDev?theme=light)
--->
-
-### :zap: Recent Activity
-
+:zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#191](https://github.com/mac-cleanup/mac-cleanup-py/pull/191) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
 2. 🎉 Merged PR [#18](https://github.com/izzalDev/finance-management/pull/18) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
