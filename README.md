@@ -1,5 +1,3 @@
-### Hi there, I'm [Rizal Fadlullah][website] 👋 💻
-
 ## I'm a full-stack developer and machine learning enthusiast!
 
 Hello! I’m IzzalDev, a full-stack developer and machine learning enthusiast currently pursuing my studies at university. My journey in technology spans both frontend and backend development, with experience in creating applications using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [Flutter](https://flutter.dev/). 🚀
