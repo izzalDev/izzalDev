@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/izzalDev/izzalDev/pull/1) in [izzalDev/izzalDev](https://github.com/izzalDev/izzalDev)
-2. 💪 Opened PR [#1](https://github.com/izzalDev/izzalDev/pull/1) in [izzalDev/izzalDev](https://github.com/izzalDev/izzalDev)
-3. 🎉 Merged PR [#1](https://github.com/izzalDev/GithubDemo/pull/1) in [izzalDev/GithubDemo](https://github.com/izzalDev/GithubDemo)
-4. 💪 Opened PR [#1](https://github.com/izzalDev/GithubDemo/pull/1) in [izzalDev/GithubDemo](https://github.com/izzalDev/GithubDemo)
-5. 🎉 Merged PR [#1](https://github.com/izzalDev/izzalDev.github.io/pull/1) in [izzalDev/izzalDev.github.io](https://github.com/izzalDev/izzalDev.github.io)
+1. 🎉 Merged PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
+2. 💪 Opened PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
+3. 🎉 Merged PR [#1](https://github.com/izzalDev/izzalDev/pull/1) in [izzalDev/izzalDev](https://github.com/izzalDev/izzalDev)
+4. 💪 Opened PR [#1](https://github.com/izzalDev/izzalDev/pull/1) in [izzalDev/izzalDev](https://github.com/izzalDev/izzalDev)
+5. 🎉 Merged PR [#1](https://github.com/izzalDev/GithubDemo/pull/1) in [izzalDev/GithubDemo](https://github.com/izzalDev/GithubDemo)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
