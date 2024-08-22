@@ -2,7 +2,7 @@
 
 Hello! I’m IzzalDev, a full-stack developer and machine learning enthusiast currently pursuing my studies at university. My journey in technology spans both frontend and backend development, with experience in creating applications using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/), and [Flutter](https://flutter.dev/). 🚀
 
-In the world of machine learning, I focus on building models and analyzing data with tools like [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), and [Scikit-learn](https://scikit-learn.org/). 🔍 I love turning complex data into actionable insights and innovative solutions. 💡
+In the world of machine learning, I focus on building models and analyzing data with tools like [PyTorch](https://pytorch.org/) and [Scikit-learn](https://scikit-learn.org/). 🔍 I love turning complex data into actionable insights and innovative solutions. 💡
 
 In addition to my technical work, I contribute to open-source projects and write articles on [Medium](https://izzal.medium.com) to share my experiences and knowledge. ✍️ I’m always excited to connect with fellow tech enthusiasts and explore new projects and opportunities. 🌟
 
@@ -17,7 +17,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 - **Frontend:** Vue.js, HTML, CSS, Tailwind
 - **Backend:** Node.js, Spring Boot, Laravel
 - **Mobile Development:** Flutter
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Onnx
+- **Machine Learning:** PyTorch, Scikit-learn, Onnx
 - **DevOps:** Docker, CI/CD, GitHub Actions
 - **MLOps:** MLflow, DVC, Dagshub
 - **Others:** Git, GitHub, VS Code, Jupyter Notebook
