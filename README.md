@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/hahouari/inno_bundle/pull/5) in [hahouari/inno_bundle](https://github.com/hahouari/inno_bundle)
-2. 💪 Opened PR [#92](https://github.com/bellshade/OpenSeries/pull/92) in [bellshade/OpenSeries](https://github.com/bellshade/OpenSeries)
-3. 🎉 Merged PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
-4. 💪 Opened PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
-5. 💪 Opened PR [#1](https://github.com/izzalDev/izzalDev/pull/1) in [izzalDev/izzalDev](https://github.com/izzalDev/izzalDev)
+1. 💪 Opened PR [#6](https://github.com/hahouari/inno_bundle/pull/6) in [hahouari/inno_bundle](https://github.com/hahouari/inno_bundle)
+2. 💪 Opened PR [#5](https://github.com/hahouari/inno_bundle/pull/5) in [hahouari/inno_bundle](https://github.com/hahouari/inno_bundle)
+3. 💪 Opened PR [#92](https://github.com/bellshade/OpenSeries/pull/92) in [bellshade/OpenSeries](https://github.com/bellshade/OpenSeries)
+4. 🎉 Merged PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
+5. 💪 Opened PR [#1](https://github.com/izzalDev/iris-classification/pull/1) in [izzalDev/iris-classification](https://github.com/izzalDev/iris-classification)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
