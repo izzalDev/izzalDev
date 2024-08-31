@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/lamnhan066/dmg/issues/1#issuecomment-2316514455) in [lamnhan066/dmg](https://github.com/lamnhan066/dmg)
-2. 🗣 Commented on [#8054](https://github.com/microsoft/PowerToys/issues/8054#issuecomment-2316414547) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-3. ❗ Opened issue [#1](https://github.com/lamnhan066/dmg/issues/1) in [lamnhan066/dmg](https://github.com/lamnhan066/dmg)
-4. 🗣 Commented on [#245](https://github.com/faressoft/terminalizer/issues/245#issuecomment-2315723495) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
-5. 🗣 Commented on [#245](https://github.com/faressoft/terminalizer/issues/245#issuecomment-2315663753) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
+1. ❗ Opened issue [#245](https://github.com/Huniko-Team/community/issues/245) in [Huniko-Team/community](https://github.com/Huniko-Team/community)
+2. 🗣 Commented on [#1](https://github.com/lamnhan066/dmg/issues/1#issuecomment-2316514455) in [lamnhan066/dmg](https://github.com/lamnhan066/dmg)
+3. 🗣 Commented on [#8054](https://github.com/microsoft/PowerToys/issues/8054#issuecomment-2316414547) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+4. ❗ Opened issue [#1](https://github.com/lamnhan066/dmg/issues/1) in [lamnhan066/dmg](https://github.com/lamnhan066/dmg)
+5. 🗣 Commented on [#245](https://github.com/faressoft/terminalizer/issues/245#issuecomment-2315723495) in [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
