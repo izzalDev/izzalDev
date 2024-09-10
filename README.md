@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/izzalDev/inno_build/pull/31) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-2. ❌ Closed PR [#30](https://github.com/izzalDev/inno_build/pull/30) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-3. 💪 Opened PR [#30](https://github.com/izzalDev/inno_build/pull/30) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-4. ❌ Closed PR [#29](https://github.com/izzalDev/inno_build/pull/29) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-5. 💪 Opened PR [#29](https://github.com/izzalDev/inno_build/pull/29) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+1. 💪 Opened PR [#41](https://github.com/izzalDev/inno_build/pull/41) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+2. ❌ Closed PR [#32](https://github.com/izzalDev/inno_build/pull/32) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+3. 💪 Opened PR [#32](https://github.com/izzalDev/inno_build/pull/32) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+4. ❌ Closed PR [#31](https://github.com/izzalDev/inno_build/pull/31) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+5. 💪 Opened PR [#31](https://github.com/izzalDev/inno_build/pull/31) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
