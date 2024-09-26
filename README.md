@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/izzalDev/pos-java-swing/issues/11) in [izzalDev/pos-java-swing](https://github.com/izzalDev/pos-java-swing)
-2. ❗ Opened issue [#11](https://github.com/izzalDev/pos-java-swing/issues/11) in [izzalDev/pos-java-swing](https://github.com/izzalDev/pos-java-swing)
-3. ❗ Opened issue [#19](https://github.com/izzalDev/finance-management/issues/19) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
-4. 🔒 Closed issue [#1](https://github.com/lamnhan066/dmg/issues/1) in [lamnhan066/dmg](https://github.com/lamnhan066/dmg)
-5. ❌ Closed PR [#47](https://github.com/izzalDev/inno_build/pull/47) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+1. ❗ Opened issue [#12](https://github.com/izzalDev/pos-java-swing/issues/12) in [izzalDev/pos-java-swing](https://github.com/izzalDev/pos-java-swing)
+2. ❗ Opened issue [#20](https://github.com/izzalDev/finance-management/issues/20) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+3. 🔒 Closed issue [#11](https://github.com/izzalDev/pos-java-swing/issues/11) in [izzalDev/pos-java-swing](https://github.com/izzalDev/pos-java-swing)
+4. ❗ Opened issue [#11](https://github.com/izzalDev/pos-java-swing/issues/11) in [izzalDev/pos-java-swing](https://github.com/izzalDev/pos-java-swing)
+5. ❗ Opened issue [#19](https://github.com/izzalDev/finance-management/issues/19) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
