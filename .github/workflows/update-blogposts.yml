@@ -17,3 +17,5 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://medium.com/feed/@izzal"
+      - name: Github-Auto-Follow-Unfollow-View-User-List
+        uses: Huniko519/Github-Auto-Follow-Unfollow-View-User-List@main
