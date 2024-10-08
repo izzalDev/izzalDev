@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#49](https://github.com/izzalDev/inno_build/issues/49) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-2. 🗣 Commented on [#49](https://github.com/izzalDev/inno_build/issues/49#issuecomment-2387553336) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-3. 🎉 Merged PR [#50](https://github.com/izzalDev/inno_build/pull/50) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-4. 💪 Opened PR [#50](https://github.com/izzalDev/inno_build/pull/50) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-5. 🔒 Closed issue [#20](https://github.com/izzalDev/finance-management/issues/20) in [izzalDev/finance-management](https://github.com/izzalDev/finance-management)
+1. ❗ Opened issue [#10](https://github.com/izzalDev/gh-action-playground/issues/10) in [izzalDev/gh-action-playground](https://github.com/izzalDev/gh-action-playground)
+2. 🔒 Closed issue [#49](https://github.com/izzalDev/inno_build/issues/49) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+3. 🗣 Commented on [#49](https://github.com/izzalDev/inno_build/issues/49#issuecomment-2387553336) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+4. 🎉 Merged PR [#50](https://github.com/izzalDev/inno_build/pull/50) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+5. 💪 Opened PR [#50](https://github.com/izzalDev/inno_build/pull/50) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
