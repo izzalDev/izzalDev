@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508881044) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
-2. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508877053) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
-3. ❗ Opened issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
-4. 🗣 Commented on [#121](https://github.com/alienator88/Pearcleaner/issues/121#issuecomment-2415613912) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
-5. ❗ Opened issue [#121](https://github.com/alienator88/Pearcleaner/issues/121) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+1. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508891855) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+2. 🔒 Closed issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+3. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508881044) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+4. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508877053) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+5. ❗ Opened issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
