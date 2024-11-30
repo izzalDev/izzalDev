@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/alienator88/Pearcleaner/issues/121#issuecomment-2415613912) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
-2. ❗ Opened issue [#121](https://github.com/alienator88/Pearcleaner/issues/121) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
-3. 💪 Opened PR [#210](https://github.com/mac-cleanup/mac-cleanup-py/pull/210) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
-4. ❗ Opened issue [#10](https://github.com/izzalDev/gh-action-playground/issues/10) in [izzalDev/gh-action-playground](https://github.com/izzalDev/gh-action-playground)
-5. 🔒 Closed issue [#49](https://github.com/izzalDev/inno_build/issues/49) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+1. ❗ Opened issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+2. 🗣 Commented on [#121](https://github.com/alienator88/Pearcleaner/issues/121#issuecomment-2415613912) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+3. ❗ Opened issue [#121](https://github.com/alienator88/Pearcleaner/issues/121) in [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)
+4. 💪 Opened PR [#210](https://github.com/mac-cleanup/mac-cleanup-py/pull/210) in [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py)
+5. ❗ Opened issue [#10](https://github.com/izzalDev/gh-action-playground/issues/10) in [izzalDev/gh-action-playground](https://github.com/izzalDev/gh-action-playground)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
