@@ -103,9 +103,9 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#195](https://github.com/SuperCuber/dotter/issues/195) in [SuperCuber/dotter](https://github.com/SuperCuber/dotter)
-2. 💪 Opened PR [#4](https://github.com/mishkinf/vscode-file-path-commenter/pull/4) in [mishkinf/vscode-file-path-commenter](https://github.com/mishkinf/vscode-file-path-commenter)
-3. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508881044) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+1. 🗣 Commented on [#4](https://github.com/mishkinf/vscode-file-path-commenter/pull/4#issuecomment-2617772151) in [mishkinf/vscode-file-path-commenter](https://github.com/mishkinf/vscode-file-path-commenter)
+2. ❗ Opened issue [#195](https://github.com/SuperCuber/dotter/issues/195) in [SuperCuber/dotter](https://github.com/SuperCuber/dotter)
+3. 💪 Opened PR [#4](https://github.com/mishkinf/vscode-file-path-commenter/pull/4) in [mishkinf/vscode-file-path-commenter](https://github.com/mishkinf/vscode-file-path-commenter)
 4. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508877053) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
 5. ❗ Opened issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
 <!--END_SECTION:activity-->
