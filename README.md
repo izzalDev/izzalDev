@@ -103,7 +103,7 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#711](https://github.com/nikitabobko/AeroSpace/issues/711#issuecomment-2692000913) in [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+1. 💪 Opened PR [#211541](https://github.com/Homebrew/homebrew-cask/pull/211541) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 2. 🗣 Commented on [#150](https://github.com/FelixKratz/JankyBorders/issues/150#issuecomment-2691958110) in [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders)
 3. 💪 Opened PR [#4](https://github.com/mishkinf/vscode-file-path-commenter/pull/4) in [mishkinf/vscode-file-path-commenter](https://github.com/mishkinf/vscode-file-path-commenter)
 4. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508877053) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
