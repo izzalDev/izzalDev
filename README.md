@@ -103,10 +103,10 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/OpenNiaga/codeigniter/pull/1) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
-2. 💪 Opened PR [#1](https://github.com/OpenNiaga/codeigniter/pull/1) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
-3. 💪 Opened PR [#4](https://github.com/mishkinf/vscode-file-path-commenter/pull/4) in [mishkinf/vscode-file-path-commenter](https://github.com/mishkinf/vscode-file-path-commenter)
-4. 🗣 Commented on [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331#issuecomment-2508877053) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
+1. 🎉 Merged PR [#2](https://github.com/OpenNiaga/codeigniter/pull/2) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
+2. 💪 Opened PR [#2](https://github.com/OpenNiaga/codeigniter/pull/2) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
+3. 🎉 Merged PR [#1](https://github.com/OpenNiaga/codeigniter/pull/1) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
+4. 💪 Opened PR [#1](https://github.com/OpenNiaga/codeigniter/pull/1) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
 5. ❗ Opened issue [#331](https://github.com/teatimeguest/setup-texlive-action/issues/331) in [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action)
 <!--END_SECTION:activity-->
 
