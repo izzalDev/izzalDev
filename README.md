@@ -103,8 +103,8 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/OpenNiaga/codeigniter/issues/3#issuecomment-3035080540) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
-2. 🗣 Commented on [#3](https://github.com/OpenNiaga/codeigniter/issues/3#issuecomment-3021920139) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
+1. 🗣 Commented on [#52](https://github.com/izzalDev/inno_build/pull/52#issuecomment-3149120629) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+2. 🎉 Merged PR [#52](https://github.com/izzalDev/inno_build/pull/52) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
 3. ❗ Opened issue [#3](https://github.com/OpenNiaga/codeigniter/issues/3) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
 4. 🎉 Merged PR [#2](https://github.com/OpenNiaga/codeigniter/pull/2) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
 5. 💪 Opened PR [#2](https://github.com/OpenNiaga/codeigniter/pull/2) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
