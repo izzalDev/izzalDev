@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
-2. 💪 Opened PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
-3. 🗣 Commented on [#52](https://github.com/izzalDev/inno_build/pull/52#issuecomment-3149120629) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-4. 🎉 Merged PR [#52](https://github.com/izzalDev/inno_build/pull/52) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-5. 💪 Opened PR [#2](https://github.com/OpenNiaga/codeigniter/pull/2) in [OpenNiaga/codeigniter](https://github.com/OpenNiaga/codeigniter)
+1. 💪 Opened PR [#1](https://github.com/izzalDev/nvim/pull/1) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
+2. 💪 Opened PR [#1018](https://github.com/JohnnyMorganz/StyLua/pull/1018) in [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)
+3. 🎉 Merged PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
+4. 💪 Opened PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
+5. 🗣 Commented on [#52](https://github.com/izzalDev/inno_build/pull/52#issuecomment-3149120629) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
