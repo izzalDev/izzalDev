@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/izzalDev/nvim/pull/1) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
-2. 💪 Opened PR [#1018](https://github.com/JohnnyMorganz/StyLua/pull/1018) in [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua)
-3. 🎉 Merged PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
-4. 💪 Opened PR [#1](https://github.com/izzalDev/dotfiles-new/pull/1) in [izzalDev/dotfiles-new](https://github.com/izzalDev/dotfiles-new)
-5. 🗣 Commented on [#52](https://github.com/izzalDev/inno_build/pull/52#issuecomment-3149120629) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+1. 🎉 Merged PR [#2](https://github.com/izzalDev/nvim/pull/2) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
+2. 🗣 Commented on [#2](https://github.com/izzalDev/nvim/pull/2#issuecomment-3236477582) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
+3. 💪 Opened PR [#2](https://github.com/izzalDev/nvim/pull/2) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
+4. ❌ Closed PR [#1](https://github.com/izzalDev/nvim/pull/1) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
+5. 🗣 Commented on [#1](https://github.com/izzalDev/nvim/pull/1#issuecomment-3236445430) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
