@@ -103,8 +103,8 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/OpenNiaga/rest-api/pull/1) in [OpenNiaga/rest-api](https://github.com/OpenNiaga/rest-api)
-2. 💪 Opened PR [#1](https://github.com/OpenNiaga/rest-api/pull/1) in [OpenNiaga/rest-api](https://github.com/OpenNiaga/rest-api)
+1.  Assigned issue [#54](https://github.com/izzalDev/inno_build/issues/54) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
+2. 🗣 Commented on [#54](https://github.com/izzalDev/inno_build/issues/54#issuecomment-3327959339) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
 3. 🎉 Merged PR [#1](https://github.com/izzalDev/blog-node/pull/1) in [izzalDev/blog-node](https://github.com/izzalDev/blog-node)
 4. 💪 Opened PR [#1](https://github.com/izzalDev/blog-node/pull/1) in [izzalDev/blog-node](https://github.com/izzalDev/blog-node)
 5. 🎉 Merged PR [#5](https://github.com/izzalDev/nvim/pull/5) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
