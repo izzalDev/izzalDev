@@ -103,10 +103,10 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#236074](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-2. 🚀 Published release [v1.0.0](https://github.com/izzalDev/study_tracker/releases/tag/v1.0.0) in [izzalDev/study_tracker](https://github.com/izzalDev/study_tracker)
-3. 💪 Opened PR [#3](undefined) in [larskristianhaga/Android-emulator-skins](https://github.com/larskristianhaga/Android-emulator-skins)
-4. 💪 Opened PR [#1](https://github.com/izzalDev/blog-node/pull/1) in [izzalDev/blog-node](https://github.com/izzalDev/blog-node)
+1. 🗣 Commented on [#236074](https://github.com/Homebrew/homebrew-cask/pull/236074#issuecomment-3529628823) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+2. 💪 Opened PR [#236074](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+3. 🚀 Published release [v1.0.0](https://github.com/izzalDev/study_tracker/releases/tag/v1.0.0) in [izzalDev/study_tracker](https://github.com/izzalDev/study_tracker)
+4. 💪 Opened PR [#3](undefined) in [larskristianhaga/Android-emulator-skins](https://github.com/larskristianhaga/Android-emulator-skins)
 5. 🎉 Merged PR [#5](https://github.com/izzalDev/nvim/pull/5) in [izzalDev/nvim](https://github.com/izzalDev/nvim)
 <!--END_SECTION:activity-->
 
