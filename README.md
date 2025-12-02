@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [izzalDev/almont-classification](https://github.com/izzalDev/almont-classification)
-2. 💪 Opened PR [#236565](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-3. 🗣 Commented on [#236074](https://github.com/Homebrew/homebrew-cask/pull/236074#issuecomment-3529628823) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-4. 💪 Opened PR [#236074](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-5. 💪 Opened PR [#3](undefined) in [larskristianhaga/Android-emulator-skins](https://github.com/larskristianhaga/Android-emulator-skins)
+1. ❌ Merged PR [#1](undefined) in [izzalDev/almont-classification](https://github.com/izzalDev/almont-classification)
+2. 💪 Opened PR [#1](undefined) in [izzalDev/almont-classification](https://github.com/izzalDev/almont-classification)
+3. ❌ Merged PR [#236565](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+4. 💪 Opened PR [#236565](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+5. 🗣 Commented on [#236074](https://github.com/Homebrew/homebrew-cask/pull/236074#issuecomment-3529628823) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
