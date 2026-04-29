@@ -103,10 +103,10 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#115](https://github.com/artyom-beilis/pytorch_dlprim/issues/115) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
-2. ℹ️ Labeled issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-3. ❗ Opened issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. 💪 Opened PR [#1](undefined) in [izzalDev/almont-classification](https://github.com/izzalDev/almont-classification)
+1. 💪 Opened PR [#30100](https://github.com/conan-io/conan-center-index/pull/30100) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+2. ❗ Opened issue [#115](https://github.com/artyom-beilis/pytorch_dlprim/issues/115) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
+3. ℹ️ Labeled issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+4. ❗ Opened issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 5. ❌ Merged PR [#236565](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 <!--END_SECTION:activity-->
 
