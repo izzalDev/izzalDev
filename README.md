@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30100](https://github.com/conan-io/conan-center-index/pull/30100) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-2. ❗ Opened issue [#115](https://github.com/artyom-beilis/pytorch_dlprim/issues/115) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
-3. ℹ️ Labeled issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ❗ Opened issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. ❌ Merged PR [#236565](undefined) in [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+1. 💪 Opened PR [#30101](https://github.com/conan-io/conan-center-index/pull/30101) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+2. 🗣 Commented on [#30100](https://github.com/conan-io/conan-center-index/pull/30100#issuecomment-4345861389) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+3. 💪 Opened PR [#30100](https://github.com/conan-io/conan-center-index/pull/30100) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+4. ❗ Opened issue [#115](https://github.com/artyom-beilis/pytorch_dlprim/issues/115) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
+5. ℹ️ Labeled issue [#2167](https://github.com/AvengeMedia/DankMaterialShell/issues/2167) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
