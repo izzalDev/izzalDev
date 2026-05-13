@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30167](https://github.com/conan-io/conan-center-index/pull/30167) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-2. 🎉 Merged PR [#30155](https://github.com/conan-io/conan-center-index/pull/30155) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-3. 🗣 Commented on [#116](https://github.com/artyom-beilis/pytorch_dlprim/pull/116#issuecomment-4413990768) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
-4. 🗣 Commented on [#114](https://github.com/artyom-beilis/pytorch_dlprim/issues/114#issuecomment-4411665367) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
-5. 💪 Opened PR [#30155](https://github.com/conan-io/conan-center-index/pull/30155) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+1. ❗ Opened issue [#1341](https://github.com/wjakob/nanobind/issues/1341) in [wjakob/nanobind](https://github.com/wjakob/nanobind)
+2. 💪 Opened PR [#30167](https://github.com/conan-io/conan-center-index/pull/30167) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+3. 🎉 Merged PR [#30155](https://github.com/conan-io/conan-center-index/pull/30155) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
+4. 🗣 Commented on [#116](https://github.com/artyom-beilis/pytorch_dlprim/pull/116#issuecomment-4413990768) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
+5. 🗣 Commented on [#114](https://github.com/artyom-beilis/pytorch_dlprim/issues/114#issuecomment-4411665367) in [artyom-beilis/pytorch_dlprim](https://github.com/artyom-beilis/pytorch_dlprim)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
