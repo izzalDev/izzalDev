@@ -103,11 +103,11 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/izzalDev/torch-opencl/pull/1) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
-2. 💪 Opened PR [#1](https://github.com/izzalDev/torch-opencl/pull/1) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
-3. ❌ Closed PR [#53](https://github.com/izzalDev/inno_build/pull/53) in [izzalDev/inno_build](https://github.com/izzalDev/inno_build)
-4. 🗣 Commented on [#30167](https://github.com/conan-io/conan-center-index/pull/30167#issuecomment-4445789968) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-5. 🗣 Commented on [#1045](https://github.com/wjakob/nanobind/pull/1045#issuecomment-4445612241) in [wjakob/nanobind](https://github.com/wjakob/nanobind)
+1. ❌ Closed PR [#3](https://github.com/izzalDev/torch-opencl/pull/3) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
+2. 💪 Opened PR [#3](https://github.com/izzalDev/torch-opencl/pull/3) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
+3. ❌ Closed PR [#2](https://github.com/izzalDev/torch-opencl/pull/2) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
+4. 💪 Opened PR [#2](https://github.com/izzalDev/torch-opencl/pull/2) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
+5. 🎉 Merged PR [#1](https://github.com/izzalDev/torch-opencl/pull/1) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
 <!--END_SECTION:activity-->
 
 [website]: https://www.davidebenvegnu.com
