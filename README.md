@@ -103,10 +103,10 @@ Feel free to reach out if you want to collaborate or chat about technology! 🤝
 
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#431](https://github.com/wojciech-kulik/xcodebuild.nvim/issues/431) in [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)
-2. ❗ Opened issue [#431](https://github.com/wojciech-kulik/xcodebuild.nvim/issues/431) in [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)
-3. 🎉 Merged PR [#30167](https://github.com/conan-io/conan-center-index/pull/30167) in [conan-io/conan-center-index](https://github.com/conan-io/conan-center-index)
-4. 🎉 Merged PR [#5](https://github.com/izzalDev/torch-opencl/pull/5) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
+1. 💪 Opened PR [#49](https://github.com/libnativeapi/nativeapi/pull/49) in [libnativeapi/nativeapi](https://github.com/libnativeapi/nativeapi)
+2. ❗ Opened issue [#48](https://github.com/libnativeapi/nativeapi/issues/48) in [libnativeapi/nativeapi](https://github.com/libnativeapi/nativeapi)
+3. ℹ️ Labeled issue [#431](https://github.com/wojciech-kulik/xcodebuild.nvim/issues/431) in [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)
+4. ❗ Opened issue [#431](https://github.com/wojciech-kulik/xcodebuild.nvim/issues/431) in [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim)
 5. 💪 Opened PR [#5](https://github.com/izzalDev/torch-opencl/pull/5) in [izzalDev/torch-opencl](https://github.com/izzalDev/torch-opencl)
 <!--END_SECTION:activity-->
 
